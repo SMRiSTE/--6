@@ -5,7 +5,7 @@
 
 int add(int a, int b) {
 	std::cout << "Результат сложения: " << a + b;
-	return 0;
+	return a + b;
 }
 
 int main() {
